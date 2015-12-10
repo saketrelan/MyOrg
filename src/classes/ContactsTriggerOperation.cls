@@ -1,3 +1,4 @@
+/*Class: ContactsTriggerOperation*/
 public class ContactsTriggerOperation{
 
     public static void insertUndeleteOperation(List<Contact> contactList){
